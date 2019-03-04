@@ -6,7 +6,7 @@ Projet de Génie Logiciel avancée
 
                   
                 
-                                                       Room reservation 
+                                                  Room reservation 
                                                        
 La salle de réunion est un des espaces incontournable dans une entreprise que ce soit pour se réunir, échanger, prendre des décisions, accueillir des clients, etc. Mais l’organisation d’une réunion de travail n’est pas toujours simple, il peut y avoir divers soucis d’organisations, empêchant le bon déroulement de la réunion, on sait que la plupart des salles sont toujours réservées mais jamais utilisées, il peut y avoir des soucis au niveau du matériels etc
 

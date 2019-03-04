@@ -2,7 +2,7 @@
 
 
 Projet de Génie Logiciel avancée 
-* L3 Informatique - Groupe H *
+* L3 Informatique - Groupe H 
 
 
 
